@@ -3,4 +3,7 @@
     <color name="colorPrimary">#1167A1</color>
     <color name="colorPrimaryDark">#02406A</color>
     <color name="colorAccent">#03C8DA</color>
+    <color name="smileColor">#FF7043</color>
+    <color name="boxColor">#F4B311</color>
+    <color name="pointColor">#F12516</color>
 </resources>
